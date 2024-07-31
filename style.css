@@ -1,0 +1,71 @@
+html, body{
+  height: 100%;
+  width: 100%;
+}
+body{
+  line-height: 1;
+  background-color: #d6d6d6bb
+}
+h1{
+  color: #263e0f;
+  font-family: Impact; Haettenschweill 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  border-width:2px;
+}
+h2{
+  color: #38571a;
+  font-family: Impact; Haettenschweill 'Arial Narrow Bold', sans-serif;
+}
+button{
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 1px;
+  padding: 12px;
+  font-family: Impact;
+}
+img{
+  width: 400px;
+  height: 200px;
+  margin-left:36%;
+}
+p{
+  color: #444444;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+  header{
+    display:flex;
+    flex-direction: column;
+    flex-class: header;
+  }
+<style>
+body{
+  padding: 25px;
+  background-color:
+    white;
+}
+.dark-mode{
+  background-color:
+    black;
+  color: white;
+}
+
+.error {
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+  background:pink;
+
+  #thingy{
+    background-color: red
+    display:flex;
+    flex-direction: row;
+  }
+  
+  .left h2{
+    width: 50%;
+    color: red;
+  }
